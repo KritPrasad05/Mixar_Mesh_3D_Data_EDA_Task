@@ -1,0 +1,33 @@
+{
+  "source": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\cylinder.obj",
+  "normalizer": {
+    "method": "minmax",
+    "v_min": [
+      -1.0,
+      -1.0,
+      -1.0
+    ],
+    "v_max": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "quantizer": {
+    "n_bins": 1024
+  },
+  "errors": {
+    "mse_per_axis": [
+      1.1949387631550368e-06,
+      0.0,
+      1.1949387631550368e-06
+    ],
+    "mae_per_axis": [
+      0.0009164222873900216,
+      0.0,
+      0.0009164222873900216
+    ],
+    "mse": 7.966258421033579e-07,
+    "mae": 0.0006109481915933477
+  }
+}

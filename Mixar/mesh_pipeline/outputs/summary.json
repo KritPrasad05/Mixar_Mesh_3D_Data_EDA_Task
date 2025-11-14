@@ -1,0 +1,162 @@
+{
+  "branch.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\branch.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\branch_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        8.983184729166263e-07,
+        1.173721059976608e-06,
+        2.725392345895e-07
+      ],
+      "mae_per_axis": [
+        0.000818670534695198,
+        0.0009330417294175057,
+        0.00045028796551734506
+      ],
+      "mse": 7.81526255827578e-07,
+      "mae": 0.0007340000765433496
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\branch_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\branch_error.png"
+  },
+  "cylinder.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\cylinder.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\cylinder_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        1.1949387631550368e-06,
+        0.0,
+        1.1949387631550368e-06
+      ],
+      "mae_per_axis": [
+        0.0009164222873900216,
+        0.0,
+        0.0009164222873900216
+      ],
+      "mse": 7.966258421033579e-07,
+      "mae": 0.0006109481915933477
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\cylinder_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\cylinder_error.png"
+  },
+  "explosive.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\explosive.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\explosive_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        5.2543402568433e-08,
+        2.720551375193651e-07,
+        4.797175638121446e-08
+      ],
+      "mae_per_axis": [
+        0.00019609583070393622,
+        0.00043841222556311046,
+        0.0001911701697800098
+      ],
+      "mse": 1.2419009882300417e-07,
+      "mae": 0.0002752260753490188
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\explosive_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\explosive_error.png"
+  },
+  "fence.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\fence.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\fence_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        2.636107364728589e-07,
+        2.0694012050312048e-07,
+        8.5209594695046e-11
+      ],
+      "mae_per_axis": [
+        0.00042580521222883083,
+        0.00038879265516962504,
+        3.874196238801295e-06
+      ],
+      "mse": 1.5687868885689145e-07,
+      "mae": 0.00027282402121241904
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\fence_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\fence_error.png"
+  },
+  "girl.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\girl.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\girl_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        3.1480200226874476e-07,
+        2.594645625615357e-07,
+        4.2003657234661554e-08
+      ],
+      "mae_per_axis": [
+        0.0004907377713773688,
+        0.00044145440685659516,
+        0.0001774135672392133
+      ],
+      "mse": 2.0542340735498068e-07,
+      "mae": 0.0003698685818243924
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\girl_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\girl_error.png"
+  },
+  "person.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\person.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\person_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        9.083780687073368e-07,
+        1.3971271366607855e-06,
+        6.155291767394302e-08
+      ],
+      "mae_per_axis": [
+        0.0008200550924989865,
+        0.001040174264297238,
+        0.00021490456525035832
+      ],
+      "mse": 7.890193743473553e-07,
+      "mae": 0.000691711307348861
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\person_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\person_error.png"
+  },
+  "table.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\table.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\table_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        4.331020767845622e-08,
+        1.030992184993578e-07,
+        3.000244119927595e-07
+      ],
+      "mae_per_axis": [
+        0.0001638231939222565,
+        0.00027134223252734546,
+        0.0004850482268684305
+      ],
+      "mse": 1.4881127939019115e-07,
+      "mae": 0.00030673788443934415
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\table_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\table_error.png"
+  },
+  "talwar.obj": {
+    "mesh": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\8samples\\talwar.obj",
+    "reconstructed": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\reconstructed\\talwar_recon.obj",
+    "metrics": {
+      "mse_per_axis": [
+        1.3872481530843534e-09,
+        3.7258767946683064e-07,
+        1.8060393452584365e-08
+      ],
+      "mae_per_axis": [
+        3.1514504295319584e-05,
+        0.0005370669020616219,
+        0.00011662957800452717
+      ],
+      "mse": 1.3067844035749977e-07,
+      "mae": 0.00022840366145382288
+    },
+    "meta_path": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metadata\\talwar_meta.json",
+    "error_plot": "C:\\Users\\kritr\\Downloads\\INTERNSHIP\\Mixar\\mesh_pipeline\\outputs\\metrics\\talwar_error.png"
+  }
+}

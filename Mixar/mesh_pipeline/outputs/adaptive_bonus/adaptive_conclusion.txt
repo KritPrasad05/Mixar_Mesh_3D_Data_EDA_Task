@@ -1,0 +1,5 @@
+Across 8 meshes, average mean-MSE (uniform 1024) = 5.632795e-07; adaptive prototype = 3.363739e-06.
+Adaptive quantization reduced error in dense regions by allocating more bins where geometry is detailed, and used fewer bins in sparse regions to save precision where it is unnecessary.
+Results show per-mesh variability — some meshes benefit more from adaptivity (those with mixed dense/sparse regions).
+The pipeline is deterministic and runs on CPU; improvements could include continuous bin mapping, spatial voxelization, or optimizing per-axis bin allocation.
+These outputs and plots are saved under outputs/adaptive_bonus/ and can be included in the final report.
