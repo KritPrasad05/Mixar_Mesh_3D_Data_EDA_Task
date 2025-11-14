@@ -1,4 +1,4 @@
-# 🧠 SeamGPT Mesh Data Processing Pipeline
+<H1 align="center"># 🧠 SeamGPT Mesh Data Processing Pipeline</H1>
 
 <p align="center">
   <b>Author:</b> Krit Prasad<br>
